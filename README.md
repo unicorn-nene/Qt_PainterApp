@@ -1,3 +1,9 @@
+###
+- 本项目仅供个人学习和简历展示使用  
+- 源代码是根据课程内容学习,练习 编写/复现的  
+- 不用于商业用途，也不对外传播原始内容
+
+
 PaintCanvas - Qt Drawing Application
 
 Overview
@@ -28,6 +34,8 @@ UI:
 Toolbar contains controls for pen width, pen color, fill color, fill toggle, and tool buttons with icons.
 Status bar shows current selected tool.
 Build Instructions
+
+
 项目概述
 
 PaintCanvas 是一款使用 Qt 6 与 C++ 开发的简易桌面绘图程序。用户可以在画布上绘制自由线条、矩形、椭圆，并使用橡皮擦擦除部分内容。
