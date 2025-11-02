@@ -1,1 +1,1 @@
-My first qt programm!!!
+Designed a simple cross-platform painting tool leveraging QPainter/QImage for pixel-level rendering, and implemented state-diren drawing interactions such as shape outlines, brush strokes, and color control.
